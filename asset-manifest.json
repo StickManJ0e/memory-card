@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.47427860.css",
+    "main.js": "/memory-card/static/js/main.f820525c.js",
+    "static/js/787.d6a8b40f.chunk.js": "/memory-card/static/js/787.d6a8b40f.chunk.js",
+    "index.html": "/memory-card/index.html",
+    "static/media/Italy_flag.svg": "/memory-card/static/media/Italy_flag.bb2033dcda58d584b313a60a850a36cb.svg",
+    "static/media/Netherlands_flag.svg": "/memory-card/static/media/Netherlands_flag.299ae45634b3bb13ffc30b233a8eb2e2.svg",
+    "main.47427860.css.map": "/memory-card/static/css/main.47427860.css.map",
+    "main.f820525c.js.map": "/memory-card/static/js/main.f820525c.js.map",
+    "787.d6a8b40f.chunk.js.map": "/memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47427860.css",
+    "static/js/main.f820525c.js"
+  ]
+}
